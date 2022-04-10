@@ -3,8 +3,6 @@
  */
 package com.greatlearning.lab2;
 
-import java.util.FormatFlagsConversionMismatchException;
-import java.util.Iterator;
 import java.util.Scanner;
 
 /**
