@@ -26,7 +26,7 @@ public class Transaction {
 		for (i = 0; i < size; i++) {
 			array[i] = sc.nextInt();
 		}
-		System.out.println("\n Enter the total number of targets that need to be acheived: ");
+		System.out.println("\n Enter the total number of targets that need to be achieved: ");
 		int targetNo = sc.nextInt();
 		while (targetNo-- != 0) {
 			int flag = 0;
@@ -45,7 +45,7 @@ public class Transaction {
 				}
 			}
 			if (flag == 0) {
-				System.out.println("\n Given Target is not acheived ");
+				System.out.println("\n Given Target is not achieved ");
 			}
 		}
 
